@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179e373f-826a-4bd6-808a-5464b5fb30d8" name="Changes" comment="init commit" />
+    <list default="true" id="179e373f-826a-4bd6-808a-5464b5fb30d8" name="Changes" comment="add lambda2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +48,27 @@
       <option name="project" value="LOCAL" />
       <updated>1686765666795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lambda">
+      <created>1686767515439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686767515439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add lambda2">
+      <created>1686767594106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686767594106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="add lambda" />
+    <MESSAGE value="add lambda2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lambda2" />
   </component>
 </project>
